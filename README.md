@@ -16,7 +16,7 @@ This project processes and analyzes TestRail test data to generate reports that 
 
 Install the required dependencies using pip:
 ```bash
-pip install pandas requests
+pip install -r requirements.txt 
 ```
 
 ## Project Structure
